@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1001",
+    "name": "Juan Pérez",
+    "email": "juan.perez@email.com",
+    "phone": "987654321"
+  },
+  {
+    "id": "1002",
+    "name": "María Gómez",
+    "email": "maria.gomez@email.com",
+    "phone": "912345678"
+  },
+  {
+    "id": "1003",
+    "name": "Carlos Ruiz",
+    "email": "carlos.ruiz@email.com",
+    "phone": "934567890"
+  },
+  {
+    "id": "1004",
+    "name": "Ana Torres",
+    "email": "ana.torres@email.com",
+    "phone": "945612378"
+  }
+]
